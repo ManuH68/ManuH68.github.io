@@ -6,7 +6,7 @@
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
     "description": "Un jeu de mots captivant.",
-    "orientation": "natural",
+    "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
         {
