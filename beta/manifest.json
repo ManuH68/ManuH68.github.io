@@ -1,6 +1,6 @@
 {
-    "name": "bogolan",
-    "short_name": "bogolan",
+    "name": "Bogolan",
+    "short_name": "Bogolan",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
