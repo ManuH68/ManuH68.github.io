@@ -1,12 +1,12 @@
 {
-    "name": "bogolan",
-    "short_name": "bogolan",
+    "name": "Coriolan",
+    "short_name": "Coriolan",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
     "description": "Un jeu de mots captivant.",
-    "orientation": "portrait-primary",
+    "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
         {
